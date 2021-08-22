@@ -1,0 +1,50 @@
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.exe
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.deps.json
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.runtimeconfig.json
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.runtimeconfig.dev.json
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.dll
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csprojAssemblyReference.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.Form1.resources
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csproj.GenerateResource.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.AssemblyInfoInputs.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.AssemblyInfo.cs
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csproj.CoreCompileInputs.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.dll
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.genruntimeconfig.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.Properties.Resources.resources
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.exe
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.deps.json
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.runtimeconfig.json
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.runtimeconfig.dev.json
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.dll
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csprojAssemblyReference.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.Form1.resources
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.Properties.Resources.resources
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csproj.GenerateResource.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.AssemblyInfoInputs.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.AssemblyInfo.cs
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csproj.CoreCompileInputs.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.dll
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.pdb
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.genruntimeconfig.cache
+D:\ВГУ 2\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.FrmAntHill.resources
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.exe
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.deps.json
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.runtimeconfig.json
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.runtimeconfig.dev.json
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.dll
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\bin\Debug\netcoreapp3.1\Ant_Hill.pdb
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csprojAssemblyReference.cache
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.Form1.resources
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.FrmAntHill.resources
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.Properties.Resources.resources
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csproj.GenerateResource.cache
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.AssemblyInfoInputs.cache
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.AssemblyInfo.cs
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.csproj.CoreCompileInputs.cache
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.dll
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.pdb
+D:\VSU\Лабы\Лабы 4 семестр\шарпы\2 (сдана)\Ant_Hill\obj\Debug\netcoreapp3.1\Ant_Hill.genruntimeconfig.cache

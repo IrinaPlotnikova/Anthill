@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ant_Hill/1.0.0": {
+        "runtime": {
+          "Ant_Hill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ant_Hill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
